@@ -1,2 +1,2 @@
 # test-static-site
-Test Staitc Site via Gthub Page
+Test Staitc Site via Gthub Pages
